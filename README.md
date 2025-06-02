@@ -119,4 +119,4 @@ README.md - Documentation and project details
 🤝 Built By
 Lakshay Sabharwal
 Risk Data Analyst | AI-ML & Data Science Enthusiast
-LinkedIn: https://www.linkedin.com/in/lakshaysabharwal
+LinkedIn: https://www.linkedin.com/in/lakshay-sabharwal-796b5721b/
