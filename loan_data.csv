@@ -1,0 +1,101 @@
+loan_id,loan_disbursal_date,loan_closure_date,loan_type,branch_state,interest_rate,credit_score,ltv_ratio,closure_reason
+1,2020-01-15,2021-12-15,home_loan,Karnataka,9.5,700,75,early_closure
+2,2019-06-10,2021-06-09,lap,Maharashtra,9.7,680,80,matured
+3,2021-03-20,2022-11-20,home_loan,Delhi,9.2,710,70,early_closure
+4,2018-11-11,2020-11-10,lap,Tamil Nadu,9.3,720,77,early_closure
+5,2020-05-05,2022-03-05,home_loan,Uttar Pradesh,9.4,690,73,matured
+6,2019-08-22,2021-08-21,lap,Kerala,9.6,695,76,early_closure
+7,2020-12-12,2022-12-11,home_loan,West Bengal,9.1,705,72,early_closure
+8,2021-01-30,2023-01-29,lap,Maharashtra,9.45,715,78,matured
+9,2019-04-17,2021-04-16,home_loan,Karnataka,9.35,725,74,early_closure
+10,2020-07-09,2022-07-08,lap,Delhi,9.55,690,79,early_closure
+11,2021-09-19,2023-09-18,home_loan,Tamil Nadu,9.0,710,71,matured
+12,2018-10-25,2020-10-24,lap,Uttar Pradesh,9.5,700,75,early_closure
+13,2020-02-14,2022-02-13,home_loan,Kerala,9.25,695,78,matured
+14,2019-05-30,2021-05-29,lap,West Bengal,8.9,705,70,early_closure
+15,2021-08-01,2023-07-31,home_loan,Maharashtra,9.6,720,76,early_closure
+16,2020-11-11,2022-11-10,lap,Karnataka,9.1,685,74,matured
+17,2019-12-22,2021-12-21,home_loan,Delhi,8.85,710,73,early_closure
+18,2022-01-05,2023-01-04,lap,Tamil Nadu,9.55,725,77,early_closure
+19,2021-07-14,2023-07-13,home_loan,Uttar Pradesh,9.2,695,75,early_closure
+20,2020-03-01,2022-02-28,lap,Kerala,9.4,700,78,matured
+21,2019-09-10,2021-09-09,home_loan,West Bengal,8.8,715,72,early_closure
+22,2021-10-20,2023-10-19,lap,Maharashtra,9.35,690,74,early_closure
+23,2020-05-15,2022-05-14,home_loan,Karnataka,9.5,705,76,matured
+24,2019-07-25,2021-07-24,lap,Delhi,9.0,720,71,early_closure
+25,2022-03-18,2023-03-17,home_loan,Tamil Nadu,9.45,695,73,early_closure
+26,2021-11-09,2023-11-08,lap,Uttar Pradesh,9.1,700,75,early_closure
+27,2020-06-22,2022-06-21,home_loan,Kerala,8.9,685,77,matured
+28,2019-10-30,2021-10-29,lap,West Bengal,9.2,715,74,early_closure
+29,2021-02-10,2023-02-09,home_loan,Maharashtra,9.55,690,76,early_closure
+30,2020-08-28,2022-08-27,lap,Karnataka,9.35,705,73,matured
+31,2020-04-01,2022-03-30,home_loan,Karnataka,9.2,710,74,early_closure
+32,2019-09-15,2021-09-14,lap,Maharashtra,9.6,680,79,matured
+33,2021-03-25,2023-03-24,home_loan,Delhi,9.1,720,72,early_closure
+34,2018-12-01,2020-11-30,lap,Tamil Nadu,9.3,735,76,early_closure
+35,2020-06-10,2022-06-09,home_loan,Uttar Pradesh,9.5,695,75,matured
+36,2019-07-05,2021-07-04,lap,Kerala,9.7,690,78,early_closure
+37,2020-12-20,2022-12-19,home_loan,West Bengal,9.0,700,73,early_closure
+38,2021-01-01,2023-01-01,lap,Maharashtra,9.4,715,77,matured
+39,2019-05-10,2021-05-09,home_loan,Karnataka,9.3,725,76,early_closure
+40,2020-07-19,2022-07-18,lap,Delhi,9.6,685,74,early_closure
+41,2021-08-11,2023-08-10,home_loan,Tamil Nadu,8.95,705,70,matured
+42,2018-11-20,2020-11-19,lap,Uttar Pradesh,9.4,700,75,early_closure
+43,2020-02-18,2022-02-17,home_loan,Kerala,9.2,695,78,matured
+44,2019-04-15,2021-04-14,lap,West Bengal,9.1,710,73,early_closure
+45,2021-06-05,2023-06-04,home_loan,Maharashtra,9.55,720,74,early_closure
+46,2020-10-11,2022-10-10,lap,Karnataka,9.0,685,77,matured
+47,2019-12-30,2021-12-29,home_loan,Delhi,9.25,710,76,early_closure
+48,2022-03-07,2023-03-06,lap,Tamil Nadu,9.5,725,75,early_closure
+49,2021-05-13,2023-05-12,home_loan,Uttar Pradesh,9.3,700,78,early_closure
+50,2020-01-28,2022-01-27,lap,Kerala,9.1,695,76,matured
+51,2019-05-14,2021-05-13,home_loan,Karnataka,9.35,710,74,early_closure
+52,2020-03-18,2022-03-17,lap,Maharashtra,9.45,695,76,matured
+53,2021-07-25,2023-07-24,home_loan,Delhi,9.20,720,75,early_closure
+54,2018-12-12,2020-12-11,lap,Tamil Nadu,8.95,680,70,early_closure
+55,2020-06-30,2022-06-29,home_loan,Uttar Pradesh,9.55,705,73,matured
+56,2019-11-22,2021-11-21,lap,Kerala,9.10,690,78,early_closure
+57,2021-01-05,2023-01-04,home_loan,West Bengal,9.40,715,72,early_closure
+58,2019-07-09,2021-07-08,lap,Karnataka,9.30,700,74,matured
+59,2020-10-14,2022-10-13,home_loan,Maharashtra,9.25,725,76,early_closure
+60,2019-04-05,2021-04-04,lap,Delhi,8.85,695,71,early_closure
+61,2020-08-20,2022-08-19,home_loan,Tamil Nadu,9.50,710,75,matured
+62,2019-10-15,2021-10-14,lap,Uttar Pradesh,9.00,685,78,early_closure
+63,2021-03-25,2023-03-24,home_loan,Kerala,9.35,705,74,early_closure
+64,2019-06-18,2021-06-17,lap,West Bengal,9.45,720,77,matured
+65,2020-12-10,2022-12-09,home_loan,Karnataka,9.20,690,73,early_closure
+66,2019-09-23,2021-09-22,lap,Maharashtra,9.40,715,75,early_closure
+67,2021-05-30,2023-05-29,home_loan,Delhi,9.15,700,74,matured
+68,2018-11-19,2020-11-18,lap,Tamil Nadu,9.35,705,72,early_closure
+69,2020-07-07,2022-07-06,home_loan,Uttar Pradesh,9.50,725,76,early_closure
+70,2019-02-10,2021-02-09,lap,Kerala,9.25,690,71,matured
+71,2021-01-14,2023-01-13,home_loan,West Bengal,9.30,715,75,early_closure
+72,2019-05-21,2021-05-20,lap,Karnataka,8.95,700,74,early_closure
+73,2020-11-05,2022-11-04,home_loan,Maharashtra,9.10,695,77,matured
+74,2019-08-12,2021-08-11,lap,Delhi,9.50,710,73,early_closure
+75,2021-06-23,2023-06-22,home_loan,Tamil Nadu,9.20,725,76,early_closure
+76,2020-04-30,2022-04-29,lap,Uttar Pradesh,9.35,690,70,matured
+77,2019-10-28,2021-10-27,home_loan,Kerala,9.00,700,75,early_closure
+78,2021-02-07,2023-02-06,lap,West Bengal,9.40,705,73,early_closure
+79,2020-06-16,2022-06-15,home_loan,Karnataka,9.55,715,74,matured
+80,2019-09-30,2021-09-29,lap,Maharashtra,9.25,720,76,early_closure
+81,2021-03-11,2023-03-10,home_loan,Delhi,9.35,690,70,early_closure
+82,2020-08-25,2022-08-24,lap,Tamil Nadu,9.10,700,75,matured
+83,2019-12-03,2021-12-02,home_loan,Uttar Pradesh,9.45,705,73,early_closure
+84,2021-05-07,2023-05-06,lap,Kerala,9.00,715,77,early_closure
+85,2020-11-19,2022-11-18,home_loan,West Bengal,9.50,690,74,matured
+86,2019-06-28,2021-06-27,lap,Karnataka,9.30,700,75,early_closure
+87,2021-01-09,2023-01-08,home_loan,Maharashtra,8.85,710,72,early_closure
+88,2020-07-22,2022-07-21,lap,Delhi,9.15,695,73,matured
+89,2019-10-06,2021-10-05,home_loan,Tamil Nadu,9.40,725,76,early_closure
+90,2021-03-28,2023-03-27,lap,Uttar Pradesh,9.25,690,70,early_closure
+91,2020-05-13,2022-05-12,home_loan,Kerala,9.50,700,75,matured
+92,2019-09-21,2021-09-20,lap,West Bengal,9.10,705,74,early_closure
+93,2021-02-16,2023-02-15,home_loan,Karnataka,9.35,715,76,early_closure
+94,2020-08-02,2022-08-01,lap,Maharashtra,9.20,690,73,matured
+95,2019-12-13,2021-12-12,home_loan,Delhi,9.00,720,75,early_closure
+96,2021-05-25,2023-05-24,lap,Tamil Nadu,9.50,695,74,early_closure
+97,2020-11-08,2022-11-07,home_loan,Uttar Pradesh,9.15,700,76,matured
+98,2019-06-17,2021-06-16,lap,Kerala,9.40,705,73,early_closure
+99,2021-01-27,2023-01-26,home_loan,West Bengal,8.90,715,75,early_closure
+100,2020-07-14,2022-07-13,lap,Karnataka,9.35,690,74,matured
